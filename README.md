@@ -8,4 +8,8 @@ Text that is not a quote
 
 Universidad Continental [Enlace](https://ucontinental.edu.pe/).
 
-![This is an image](/imagenes/patricio2 (1).jpg)
+
+| Apellidos y Nombres  | Rol |
+| ------------- | ------------- |
+| fdsgvfdvds dsfdsf  | fg  |
+| dsfdsfdsf dsfdsfdsf  | gh  |
